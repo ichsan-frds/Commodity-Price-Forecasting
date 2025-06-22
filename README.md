@@ -18,7 +18,7 @@ The Global Commodity Price data provides supplementary data on commodities acros
 The Google Trend data offers insights into public interest and consumer behavior by tracking keyword search patterns related to commodities and economic sectors.
 The Currency data contains historical exchange rate movements collected from central banks and foreign exchange markets.
 
-Further information and metadata can be found at: [[Kaggle Competition](https://www.kaggle.com/competitions/warmup-datavidia/data)].
+Further information and metadata can be found at: [[Kaggle Competition](https://www.kaggle.com/competitions/comodity-price-prediction-penyisihan-arkavidia-9/data)].
 
 In addition to the provided data, external open-source datasets were also used, including monthly inflation data and monthly import-export statistics of Indonesia, to enrich the model with macroeconomic context and improve prediction accuracy.
 
