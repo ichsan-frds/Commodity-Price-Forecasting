@@ -1,5 +1,7 @@
 # Commodity Price Forecasting
 
+![CommodityPriceForecastingImage](https://github.com/user-attachments/assets/ea696868-7019-494e-b092-12332dca5ef6)
+
 This project is an implementation of the analysis and modeling pipeline for the competitive data science project conducted as part of the **Datavidia 2025** competition, specifically titled **"Commodity Price Prediction, Penyisihan Datavidia 9"**
 
 Forecasting temperature rise using machine learning regression and statistical forecasting models. This project aims to predict future commodity price changes by analyzing climate-related variables and external economic indicators. The data used includes global commodity prices, historical food prices, Google Trends data, and currency exchange rates.
